@@ -1,8 +1,46 @@
-# Head First Design Patterns (2020 2nd Edition)
+# Projeto: Padrão de Projeto Decorator
 
-I have recently updated all the code for Head First Design Patterns for the 2nd edition of the book, released in December, 2020.
+Este repositório contém um projeto desenvolvido com o **Padrão de Projeto Decorator**, que será apresentado em um seminário no dia **19/11/2024**. 
 
-Download the code and compile and run from the command line, or load the code into project in Eclipse using Java 8 or higher.
+O **Decorator** é um padrão estrutural que permite adicionar comportamento a objetos de forma dinâmica, promovendo maior flexibilidade e reutilização de código.
 
-Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
+## 📖 Contexto
 
+O projeto é inspirado no livro *Head First Design Patterns* (2ª Edição, 2020), que apresenta de forma prática e acessível os principais padrões de design em programação orientada a objetos.
+
+## 🚀 Como Executar
+
+1. **Pré-requisitos**:
+   - Java 8 ou superior
+   - IDE como Eclipse, IntelliJ ou uso do terminal para compilar
+
+2. **Clonar o Repositório**:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+
+3. **Compilar e Executar**:
+   No terminal, navegue até o diretório do projeto e execute os seguintes comandos:
+   ```bash
+   javac Main.java
+   java Main
+   ```
+
+   Ou importe o projeto para sua IDE favorita.
+
+## 📂 Estrutura do Projeto
+
+- **/src**: Código-fonte do projeto, organizado para ilustrar a implementação do padrão Decorator.
+- **/docs**: Documentação complementar e slides utilizados na apresentação.
+- **/tests**: Casos de teste para validar o comportamento dinâmico.
+
+## 🌟 Recursos
+
+- Implementação detalhada do padrão Decorator com exemplos práticos.
+- Código comentado para facilitar o aprendizado.
+- Testes unitários com casos reais para reforçar o entendimento.
+
+## 📚 Referências
+
+- Livro: [Head First Design Patterns (2ª Edição, 2020)](http://wickedlysmart.com/head-first-design-patterns/)
+- Documentação oficial do Java: [Java Documentation](https://docs.oracle.com/en/java/)
