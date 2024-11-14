@@ -1,46 +1,46 @@
-# Projeto: Padrão de Projeto Decorator
+# Decorator Pattern Project  
 
-Este repositório contém um projeto desenvolvido com o **Padrão de Projeto Decorator**, que será apresentado em um seminário no dia **19/11/2024**. 
+This repository contains a Java project showcasing the **Decorator Design Pattern**, which will be presented during a seminar on **November 19, 2024**.  
 
-O **Decorator** é um padrão estrutural que permite adicionar comportamento a objetos de forma dinâmica, promovendo maior flexibilidade e reutilização de código.
+The **Decorator Pattern** is a structural design pattern that dynamically adds behavior to objects, promoting flexibility and code reuse.  
 
-## 📖 Contexto
+## 📖 Context  
 
-O projeto é inspirado no livro *Head First Design Patterns* (2ª Edição, 2020), que apresenta de forma prática e acessível os principais padrões de design em programação orientada a objetos.
+The project is inspired by the book *Head First Design Patterns* (2nd Edition, 2020), which offers a practical introduction to object-oriented design patterns.  
 
-## 🚀 Como Executar
+## 🚀 How to Run  
 
-1. **Pré-requisitos**:
-   - Java 8 ou superior
-   - IDE como Eclipse, IntelliJ ou uso do terminal para compilar
+1. **Requirements**:  
+   - Java 8 or higher  
+   - An IDE (e.g., Eclipse, IntelliJ) or a terminal for compilation  
 
-2. **Clonar o Repositório**:
+2. **Clone the Repository**:  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   ```
+   git clone <REPOSITORY_URL>
+   ```  
 
-3. **Compilar e Executar**:
-   No terminal, navegue até o diretório do projeto e execute os seguintes comandos:
+3. **Compile and Run**:  
+   From the terminal, navigate to the project directory and execute:  
    ```bash
    javac Main.java
    java Main
-   ```
+   ```  
 
-   Ou importe o projeto para sua IDE favorita.
+   Alternatively, import the project into your preferred IDE.  
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure  
 
-- **/src**: Código-fonte do projeto, organizado para ilustrar a implementação do padrão Decorator.
-- **/docs**: Documentação complementar e slides utilizados na apresentação.
-- **/tests**: Casos de teste para validar o comportamento dinâmico.
+- **/src**: Source code illustrating the Decorator pattern.  
+- **/docs**: Supporting documentation and presentation slides.  
+- **/tests**: Unit tests to validate the implementation.  
 
-## 🌟 Recursos
+## 🌟 Features  
 
-- Implementação detalhada do padrão Decorator com exemplos práticos.
-- Código comentado para facilitar o aprendizado.
-- Testes unitários com casos reais para reforçar o entendimento.
+- Detailed implementation of the Decorator pattern.  
+- Well-commented code for easy understanding.  
+- Real-world-inspired test cases.  
 
-## 📚 Referências
+## 📚 References  
 
-- Livro: [Head First Design Patterns (2ª Edição, 2020)](http://wickedlysmart.com/head-first-design-patterns/)
-- Documentação oficial do Java: [Java Documentation](https://docs.oracle.com/en/java/)
+- Book: [Head First Design Patterns (2nd Edition, 2020)](http://wickedlysmart.com/head-first-design-patterns/)  
+- Official Java Documentation: [Java Documentation](https://docs.oracle.com/en/java/)  
